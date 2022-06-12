@@ -1,0 +1,54 @@
+.header{
+  text-transform: capitalize;
+}
+.header,.mid,.lhs,.rhs{
+  display: inline;
+}
+#mid1,#mid2,#mid3,#mid4,#rhs1,#rhs2{
+  display: inline;
+}
+.lhs{
+  font-size: 30px;
+  font-weight: bolder;
+  text-transform: lowercase;
+  float: left;
+}
+.mid{
+  margin-left: 50px;
+  color: gray;
+  word-spacing: 18px;
+}
+.rhs{
+  float: right;
+  color: gray;
+}
+#rhs2{
+  border: 1px solid ;
+  border-radius: 9px;
+padding: 5px;
+margin-left: 10px;
+}
+.note{
+  margin-top: 150px ;
+  margin-right: 900px;
+  padding-left: 70px;
+}
+.s1{
+  font-weight:bolder;
+  font-size: 50px;
+}
+.s2{
+  color: gray;
+}
+ img{
+  width:px;
+  height: 340px;
+  margin-left: 22cm;
+  margin-top: -8cm;
+}
+button{
+  display: block;
+  color: white;
+  background: black;
+  margin-top: 50px;
+}
